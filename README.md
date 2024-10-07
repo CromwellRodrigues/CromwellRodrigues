@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on creating my portfolio page...
 - 💞 I’m currently learning React and Typescript
-- 📫 How to reach me: LinkedIn ->(https://www.linkedin.com/in/cromwell-rodrigues-d-souza/)
+- 📫 How to reach me: LinkedIn ->([https://www.linkedin.com/in/cromwell-rodrigues/])
 - 💝 Fun fact: I love coding, water-color painting & travelling !
 
 
