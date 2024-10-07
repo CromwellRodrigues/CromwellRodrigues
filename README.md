@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <p>As I continue to learn and develop, some of my skills include:
     <img src="https://skillicons.dev/icons?i=html,css,js,react,docker,express,figma,git,github,githubactions,jest,md,nextjs,nodejs,notion,npm,pnpm,postgres,postman,styledcomponents,supabase,sentry,ts,vercel,vscode,vite,vitest&perline=9" />
 </p>
 
