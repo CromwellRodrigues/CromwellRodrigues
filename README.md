@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Crom,
 
-## Aspiring Software Developer
+## Web Design 🔹 UI / UX Designer 
 
 
 
